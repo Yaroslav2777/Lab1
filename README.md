@@ -3,3 +3,6 @@
 # Завдання 1 
 <img width="1797" height="1067" alt="image" src="https://github.com/user-attachments/assets/03e76bd6-1253-4012-90e0-514ef0c8d225" />
 
+
+# Завдання 2 
+<img width="797" height="475" alt="image" src="https://github.com/user-attachments/assets/98653d42-8894-40b4-81c8-6f0bf6c7fbf6" />
