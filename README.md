@@ -1,7 +1,7 @@
 # Lab1
 
 # Завдання 1 
-<img width="1797" height="1067" alt="image" src="https://github.com/user-attachments/assets/03e76bd6-1253-4012-90e0-514ef0c8d225" />
+<img width="794" height="472" alt="image" src="https://github.com/user-attachments/assets/df4dbe67-4827-4ce4-a994-58f1108108ea" />
 
 
 # Завдання 2 
